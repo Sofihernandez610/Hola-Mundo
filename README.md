@@ -1,2 +1,2 @@
-# Hola-Mundo
-Ejercicio de aplicación del tema repositorios
+Sofia Hernandez
+git 
